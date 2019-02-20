@@ -2,3 +2,11 @@ to connect local repos to git hub
 git init
 git remote origin " link"
 git pull origin master
+modify in git
+git push origin master
+
+
+branch
+
+git branch Develop
+git checkout  Develop
