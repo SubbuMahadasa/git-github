@@ -1,0 +1,5 @@
+to connect local repos to git hub
+git init
+git remote origin " link"
+git pull origin master
+ these are commands
